@@ -1,0 +1,29 @@
+# License Overview for QAZ BLE
+
+This repository contains multiple sub-projects with different licenses:
+
+| Path                       | Scope                | License |
+|----------------------------|----------------------|---------|
+| `hardware/`                | STEP models          | CERN-OHL-P v2 |
+| `firmware/qmk_firmware/`   | QMK keyboard definitions | GPL-2.0 |
+| `firmware/qmk_userspace_via/` | QMK VIA configuration | GPL-2.0 |
+| `firmware/vial-qmk/`      | Vial QMK configuration | GPL-2.0 |
+| `firmware/zmk-config-qaz-ble/` | ZMK configuration | MIT |
+| `docs/`, `docs/img/`      | Build guide, photos  | CC BY-SA 4.0 |
+
+## License Details
+
+### Hardware (CERN-OHL-P v2)
+- STEP models in `hardware/` directory
+- Open Hardware License for hardware designs
+
+### Firmware
+- **QMK Firmware**: GPL-2.0 license
+- **ZMK Firmware**: MIT license
+
+### Documentation (CC BY-SA 4.0)
+- Build guides and documentation in `docs/` directory
+- Photos and images in `docs/img/` directory
+- Creative Commons Attribution-ShareAlike 4.0 International License
+
+See each subfolder for full license texts.
