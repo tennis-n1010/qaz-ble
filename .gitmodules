@@ -1,0 +1,15 @@
+[submodule "firmware/qmk_firmware"]
+	path = firmware/qmk_firmware
+	url = https://github.com/tennis-n1010/qmk_firmware.git
+[submodule "firmware/qmk_userspace_via"]
+	path = firmware/qmk_userspace_via
+	url = https://github.com/tennis-n1010/qmk_userspace_via
+[submodule "firmware/keyboards"]
+	path = firmware/keyboards
+	url = https://github.com/tennis-n1010/keyboards
+[submodule "firmware/vial-qmk"]
+	path = firmware/vial-qmk
+	url = https://github.com/tennis-n1010/vial-qmk
+[submodule "firmware/zmk-config-qaz-ble"]
+	path = firmware/zmk-config-qaz-ble
+	url = https://github.com/tennis-n1010/zmk-config-qaz-ble.git
